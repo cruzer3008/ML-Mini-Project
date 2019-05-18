@@ -1,0 +1,3 @@
+After downloading dataset from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+unzip it and kepp fer2013.csv in data folder 
+then you are ready go with the code.
