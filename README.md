@@ -5,6 +5,5 @@ Machine Learning project consisting of three modules
 3. Implementation of a paper written by students at Stanford for implementation 
 
 Facial Emotion Recognition: We used Deep learning aproch for classifying given face into 7 emotions. 
-Dataset can be downloaded from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data or https://drive.google.com/file/d/1fMLi18fksmurRk5mFRKH7bp9aydqsKx0/view?usp=sharing
-
+Dataset can be downloaded from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data 
 ![](network.png)
